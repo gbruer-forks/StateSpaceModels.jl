@@ -1,4 +1,4 @@
-[build-img]: https://github.com/LAMPSPUC/StateSpaceModels.jl/workflows/CI/badge.svg?branch=master
+[build-img]: https://github.com/LAMPSPUC/StateSpaceModels.jl/actions/workflows/ci.yml/badge.svg?branch=master
 [build-url]: https://github.com/LAMPSPUC/StateSpaceModels.jl/actions?query=workflow%3ACI
 
 [codecov-img]: https://codecov.io/gh/LAMPSPUC/StateSpaceModels.jl/coverage.svg?branch=master
